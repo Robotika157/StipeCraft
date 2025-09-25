@@ -1,0 +1,9 @@
+#pragma once
+
+enum GENERATION_PHASE : char {
+	BLOCKDATA,
+	VISIBILITY_GRAPH,
+	LIGHTING,
+	MESH,
+	DONE,
+};

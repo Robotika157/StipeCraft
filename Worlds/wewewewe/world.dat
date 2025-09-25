@@ -1,0 +1,106 @@
+{
+  "chunkHash": [
+    [
+      2,
+      0,
+      -3
+    ],
+    [
+      2,
+      0,
+      -2
+    ]
+  ],
+  "chunksWithBlockData": [],
+  "playerData": [
+    {
+      "gamemode": 0,
+      "health": 20,
+      "hunger": 20,
+      "inventory": {
+        "items": [
+          {
+            "ID": 9,
+            "amount": 1,
+            "posX": 0,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 13,
+            "amount": 1,
+            "posX": 1,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 17,
+            "amount": 1,
+            "posX": 2,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 42,
+            "amount": 4,
+            "posX": 3,
+            "posY": 0,
+            "type": 1
+          },
+          {
+            "ID": 30,
+            "amount": 5,
+            "posX": 4,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 22,
+            "amount": 5,
+            "posX": 5,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 57,
+            "amount": 1,
+            "posX": 6,
+            "posY": 0,
+            "type": 1
+          },
+          {
+            "ID": 11,
+            "amount": 3,
+            "posX": 8,
+            "posY": 0,
+            "type": 1
+          },
+          {
+            "ID": 43,
+            "amount": 1,
+            "posX": 7,
+            "posY": 0,
+            "type": 1
+          },
+          {
+            "ID": 21,
+            "amount": 2,
+            "posX": 0,
+            "posY": 1,
+            "type": 0
+          }
+        ]
+      },
+      "oxygen": 16,
+      "position": [
+        36.569034576416016,
+        -2.4800000190734863,
+        -33.29999923706055
+      ],
+      "saturation": 10,
+      "score": 0
+    }
+  ],
+  "seed": 45,
+  "worldName": "wewewewe"
+}

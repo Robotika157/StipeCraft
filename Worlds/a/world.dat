@@ -1,0 +1,159 @@
+{
+  "chunkHash": [
+    [
+      -6,
+      0,
+      2
+    ],
+    [
+      -4,
+      0,
+      4
+    ],
+    [
+      -4,
+      0,
+      5
+    ],
+    [
+      -4,
+      1,
+      5
+    ],
+    [
+      -3,
+      0,
+      4
+    ],
+    [
+      -2,
+      -1,
+      6
+    ],
+    [
+      -2,
+      0,
+      3
+    ],
+    [
+      -2,
+      0,
+      5
+    ],
+    [
+      -2,
+      0,
+      6
+    ],
+    [
+      -1,
+      0,
+      5
+    ]
+  ],
+  "chunksWithBlockData": [
+    [
+      -3,
+      0,
+      4
+    ]
+  ],
+  "playerData": [
+    {
+      "gamemode": 0,
+      "health": 20,
+      "hunger": 20,
+      "inventory": {
+        "items": [
+          {
+            "ID": 9,
+            "amount": 1,
+            "posX": 0,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 13,
+            "amount": 1,
+            "posX": 1,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 17,
+            "amount": 1,
+            "posX": 2,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 42,
+            "amount": 5,
+            "posX": 3,
+            "posY": 0,
+            "type": 1
+          },
+          {
+            "ID": 31,
+            "amount": 30,
+            "posX": 6,
+            "posY": 0,
+            "type": 1
+          },
+          {
+            "ID": 9,
+            "amount": 5,
+            "posX": 7,
+            "posY": 0,
+            "type": 1
+          },
+          {
+            "ID": 23,
+            "amount": 2,
+            "posX": 8,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 31,
+            "amount": 3,
+            "posX": 5,
+            "posY": 0,
+            "type": 0
+          },
+          {
+            "ID": 1,
+            "amount": 41,
+            "posX": 0,
+            "posY": 1,
+            "type": 0
+          },
+          {
+            "ID": 40,
+            "amount": 1,
+            "posX": 1,
+            "posY": 1,
+            "type": 1
+          },
+          {
+            "ID": 10,
+            "amount": 48,
+            "posX": 2,
+            "posY": 1,
+            "type": 1
+          }
+        ]
+      },
+      "oxygen": 20,
+      "position": [
+        -417.8486328125,
+        2.5667285919189453,
+        1222.1221923828125
+      ],
+      "saturation": 3,
+      "score": 0
+    }
+  ],
+  "seed": 32306,
+  "worldName": "a"
+}
